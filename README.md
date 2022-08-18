@@ -34,19 +34,19 @@
 </p> 
 
 <p align="center">
-    <img src="/img/ioc-di-2.png" alt="Implementando IoC e DI" title="Implementando IoC e DI">
+    <img src="/img/ioc-di-3.png" alt="Implementando IoC e DI" title="Implementando IoC e DI">
 </p> 
 
 <p align="center">
-    <img src="/img/ioc-di-1.png" alt="Implementando IoC, DI e DIP" title="Implementando IoC, DI e DIP">
+    <img src="/img/dip-1.png" alt="Implementando IoC, DI e DIP" title="Implementando IoC, DI e DIP">
 </p> 
 
 <p align="center">
-    <img src="/img/ioc-di-2.png" alt="Implementando IoC, DI e DIP" title="Implementando IoC, DI e DIP">
+    <img src="/img/dip-2.png" alt="Implementando IoC, DI e DIP" title="Implementando IoC, DI e DIP">
 </p> 
 
 <p align="center">
-    <img src="/img/ioc-di-3.png" alt="Implementando IoC, DI e DIP" title="Implementando IoC, DI e DIP">
+    <img src="/img/dip-3.png" alt="Implementando IoC, DI e DIP" title="Implementando IoC, DI e DIP">
 </p> 
 
 ### `🔎 Como utilizar?`
@@ -64,4 +64,10 @@ dotnet run
 ### ` 🌐 Referências`
 
 #### Artigos
-- <p> ASP.NET Core + JWT + Refit: consumindo uma API protegida de forma descomplicada: https://imasters.com.br/asp/asp-net-core-jwt-refit-consumindo-uma-api-protegida-de-forma-descomplicada</p>
+- <p> A quick intro to Dependency Injection: what it is, and when to use it: https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/</p>
+
+- <p> Dependency Injection: https://balta.io/blog/dependency-injection</p>
+
+- <p> Dependency Inversion Principle: https://balta.io/blog/dependency-inversion-principle</p>
+
+- <p> Inversion of Control: https://balta.io/blog/inversion-of-control</p>
