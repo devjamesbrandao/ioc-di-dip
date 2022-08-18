@@ -21,10 +21,12 @@
 
 <p><strong>Dependency Inversion Principle (DIP)</strong> afirma que deve haver um maior desacoplamento entre as camadas visando depender mais de abstrações (interfaces) do que de implementações (classes concretas). </p>
 
+#### Código sem Ioc, DI e DIP
 <p align="center">
     <img src="/img/codigo-ruim.png" alt="Código ruim" title="Código ruim">
 </p> 
 
+#### Código com IoC e DI
 <p align="center">
     <img src="/img/ioc-di-1.png" alt="Implementando IoC e DI" title="Implementando IoC e DI">
 </p> 
@@ -37,6 +39,7 @@
     <img src="/img/ioc-di-3.png" alt="Implementando IoC e DI" title="Implementando IoC e DI">
 </p> 
 
+#### Código com IoC, DI e DIP
 <p align="center">
     <img src="/img/dip-1.png" alt="Implementando IoC, DI e DIP" title="Implementando IoC, DI e DIP">
 </p> 
